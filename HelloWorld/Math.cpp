@@ -3,7 +3,6 @@
 
 int Multiply(int a, int b)
 {
-	Log("Multiply"); // Removed in Compile Step for optimization (Not storing return value!)
 	return a * b;
 }
 // #include "EndBrace.h"
